@@ -1,31 +1,21 @@
 # Part 3
 
-## Overview
+## Progress Report
 
-Progress report due Monday, July 2, 2018.
 
-The finish line is in sight! You should have your data in hand and some models made. This portion of the Capstone contains two parts to help really hone your model and develop mastery over your final project.
+1. The data is fully in hand by using Selenium to unblock 6pm.com
+2. A full EDA is done on all of the shoe sole images with some pictures printed out in code
+3. Still work on the labeling process and modeling process is not done yet.
+4. The most difficult part is labeling 3400 images by hand. I initially did it by checking the website and putting the label in the spreadsheet and 200 images cost 2 hours which is unacceptable. Then I got help from some cohorts with dragging images to different folders. This sped up a lot. I am still working on this part.
+      Another way to get away with this is to use unsupervised neural networks and here are a few websites related(I will try it after using supervised learning):
+https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
+https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
+https://stats.stackexchange.com/questions/140148/how-can-an-artificial-neural-network-ann-be-used-for-unsupervised-clustering
+https://pythonexample.com/code/self-organizing-map-keras/
 
-*Goal*: A written progress report on your project and a detailed 1:1 with your instructor.
+5. My capstone topic is the same as the starting point.
+6. My timeline for next week and a half is to finish initial model building with both supervised learning and unsupervised learning and have a general idea about how the models work and how good my results could be.
+7. During my 1:1, I discussed with Mark about the shoe shapes I chose and the criteria I used to distinguish the models. I still have the info piece by piece and they need to be integrated into my report/Jupyter Notebook.
 
----
 
-## Requirements
 
-The actual deliverable for this section is fairly small. You are expected to submit, via [this Google form](https://goo.gl/forms/TqJ6ZrrAuJ5A3HWB3), a progress report detailing where you are with your Capstone. The format and content is up to you but, at a minimum, we expect the following:
-
-1. Do you have data fully in hand and if not, what blockers are you facing?
-2. Have you done a full EDA on all of your data?
-3. Have you begun the modeling process? How accurate are your predictions so far?
-4. What blockers are you facing, including processing power, data acquisition, modeling difficulties, data cleaning, etc.? How can we help you overcome those challenges?
-5. Have you changed topics since your lightning talk? Since you submitted your Problem Statement and EDA? If so, do you have the necessary data in hand (and the requisite EDA completed) to continue moving forward?
-6. What is your timeline for the next week and a half? What do you _have_ to get done versus what would you _like_ to get done?
-7. What topics do you want to discuss during your 1:1?
-
-We will use your progress report as a leaping off point for a deep 1:1 with a member of the instructional staff. The best use of your time is to really flesh out this document so that your remaining time here can be most productive.
-
-After you submit this document no later than *end of day, July 2, 2018*.
-
-## Necessary Deliverables / Submission
-
-- Your progress report (touching on the points above) submitted no later than *end of day, July 2, 2018* on [this form](https://goo.gl/forms/TqJ6ZrrAuJ5A3HWB3).
