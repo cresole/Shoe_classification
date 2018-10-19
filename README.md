@@ -31,9 +31,9 @@ EDA-Adjust_labels_2.ipynb	          EDA corresponding to the second notebook in 
 5 different architects are tested first on 3400 images and the conclusion is 2 layers of convolutional neural network with dropouts and 1 single Dense layer converges fastest. 
 
 To optimize accuracy score, different labeling are tested but no obvious improvement showed. There is mainly because shoe manufacters try to "unfit" their shoes to fit more people which makes some shoes are between type 1 and type 2 and hard to classify.  
+![Accuracy_Plot](https://github.com/cresole/Shoe_classification/blob/master/05_Assets/Accuracy_Model_3_adjust.png)
 ![Loss_Plot](https://github.com/cresole/Shoe_classification/blob/master/05_Assets/Loss_Model_3_adjust.png)
 ![Confusion Matrix](https://github.com/cresole/Shoe_classification/blob/master/05_Assets/CM_Model_3_adjust.png)
-![Accuracy_Plot](https://github.com/cresole/Shoe_classification/blob/master/05_Assets/Accuracy_Model_3_adjust.png)
 
 There are 3 jupyter notebook files in the modeling folder:
 Model.ipynb       Neural Network architect test
