@@ -1,12 +1,1 @@
-part_02/Shoe_sole_images/*
-part_02/Shoe_sole_images_2/*
-part_02/Shoe_sole_images_3/*
-part_02/labels_label_adjust.csv
-part_02/labels_label_adjust1.csv
-part_02/pd_images.csv
-part_02/pd_images_label_adjust.csv
-part_02/pd_images_label_adjust1.csv
-part_02/shoe_pd_images.csv
-part_02/shoe_pd_images1.csv
-part_02/labels.csv
-part_02/chromedriver
+04_Data/*
