@@ -51,5 +51,8 @@ To increase accuracy score, I want to try different strategies to classify type 
 
 ## More details
 https://medium.com/@lizhong_25036/how-to-find-your-own-shoes-that-fit-72a8ae62df92
+https://medium.com/@lizhong_25036/how-to-select-your-own-shoes-d0cfa48f24d0
+https://medium.com/@lizhong_25036/how-to-select-shoes-that-fit-5a145577fba8
+https://medium.com/@lizhong_25036/how-to-select-shoes-that-fit-abacc48326eb
 
 
